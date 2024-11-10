@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\HP\\Desktop\\mysql-connector-j-8.2.0.jar",
+        "f:\\CorelDRAW Graphics Suite 2018_\\OneDrive\\Desktop\\btps revision test\\Jar file\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar"
+    ]
+}
